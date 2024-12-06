@@ -11,7 +11,6 @@ To write a python program to find the rank of a matrix
 ### Step 4: End the program
 ## Program:
 '''
-
 #Program to find the rank of a matrix.
 #Developed by: Thanushree
 #RegisterNumber:24900590
@@ -19,7 +18,6 @@ import numpy as np
 matrix=np.array([[1,2,3],[3,6,9]])
 rank=np.linalg.matrix_rank(matrix)
 print(rank)
-
 '''
 ## Output:
 ![Alt text](exp2.png)
